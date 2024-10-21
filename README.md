@@ -1,4 +1,4 @@
-# as-archive
+# armansite
 My old FreeWHA Website as an Archive
 
 Here is the link: https://nexustech24.github.io/as-archive/
